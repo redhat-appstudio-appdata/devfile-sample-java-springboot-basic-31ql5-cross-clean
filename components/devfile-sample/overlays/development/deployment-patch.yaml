@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/abhindas-tenant/devfile-sample-java-springboot-basic/devfile-sample@sha256:7fc177bf445e0cdfd166873a9725c963dcf4ed07d2f0ce09815c0ec640a8590a
+      - image: quay.io/redhat-user-workloads/abhindas-tenant/devfile-sample-java-springboot-basic/devfile-sample@sha256:3f8675b96dce3f005eb32336c66e3e1990219e024e983303e7359df4963a611e
         name: my-nodejs
         resources: {}
 status: {}
