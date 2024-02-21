@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample
     app.kubernetes.io/part-of: devfile-sample-java-springboot-basic
-  name: devfile-sampleekr7
+  name: devfile-sampleepxf
 spec:
   path: /
   port:
